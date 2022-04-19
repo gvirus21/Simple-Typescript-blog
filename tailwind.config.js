@@ -5,6 +5,10 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      Lora: ["Lora", "sans-serif"],
+      Akshar: ["Akshar", "sans-serif"],
+    },
   },
   plugins: [],
 };
